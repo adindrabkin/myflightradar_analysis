@@ -3,7 +3,7 @@ Quickly written code to analyze a flightradar24 flightdiary CSV file for repeat 
 
 
 ### Usage
-`python3 flightdiary_stats.py [path to flightdiary_...csv]
+`python3 flightdiary_stats.py [path to flightdiary_...csv]`
 
 
 **Sample output**
